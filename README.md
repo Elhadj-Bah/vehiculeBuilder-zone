@@ -1,4 +1,4 @@
-# vehiculeBuilder-zone
+# vehiculeBuilder-zone [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A typeScript command-line application that builds and uses cars to have additional options for motorbikes and trucks. The application prompts the user to create a new vehicle or select an existing vehicle. After going through the creation process or the selection process, the user is able to perform certain actions with the selected vehicle. The user is returned to the actions menu after each action until they decide to exit the application.
 
@@ -66,4 +66,6 @@ Exit: Exit the CLI application.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Link to a demo
+## Walkthrough video Link demo
+
+https://drive.google.com/file/d/1CDO1XPUZLX0ESipdLxDnvp1ij6UW5CC3/view?usp=drive_link
